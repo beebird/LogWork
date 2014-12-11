@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="httpcore-nio-4.2.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/httpcore-nio-4.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/httpmime-4.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

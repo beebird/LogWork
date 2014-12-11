@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="fluent-hc-4.4-beta1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/fluent-hc-4.4-beta1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/httpclient-4.4-beta1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/httpclient-cache-4.4-beta1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/httpcore-4.4-beta1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/httpcore-ab-4.4-beta1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/httpmime-4.4-beta1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
